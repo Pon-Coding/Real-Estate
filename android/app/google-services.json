@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149204024907",
+    "project_id": "clearviewhcm-mobile-999",
+    "storage_bucket": "clearviewhcm-mobile-999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149204024907:android:5ad078837920eab38e57ce",
+        "android_client_info": {
+          "package_name": "com.blue.re"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149204024907-0pp5112t0u3nhv04cls9jtuhvnrk02mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyI2qgk996xm5Zp_SEORZGsxuuXGOyVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149204024907-0pp5112t0u3nhv04cls9jtuhvnrk02mq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149204024907-5c17dsr8p8c74hsuoesrk2u55oqrridh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blue.re",
+                "app_store_id": "1634579735"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
